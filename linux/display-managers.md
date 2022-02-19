@@ -1,3 +1,11 @@
+---
+title: Display Managers 
+tags: 
+  - Fedora
+  - Linux
+  - Display
+---
+
 # Display Managers
 
 ## Fedora
