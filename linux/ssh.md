@@ -18,7 +18,7 @@ ln -s /location/to/askpass /usr/bin/ssh-askpass
 If the above didn't work, check to see if you have $SSH_ASKPASS set by running echo $SSH_ASKPASS in your terminal.
 
 If you don't, then you need to either install ssh-askpass
-- Ubuntu: sudo apt get ssh-askpass
-- Fedora: sudo dnf install gnome-ssh-askpass
+- Ubuntu: `sudo apt get ssh-askpass`
+- Fedora: `sudo dnf install gnome-ssh-askpass`
 
 Now rerun the above after those are installed. 
